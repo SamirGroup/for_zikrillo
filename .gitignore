@@ -1,4 +1,6 @@
-node_modules/
+# Render.com
+render.yaml
+!.gitignore/
 dist/
 .next/
 .env
